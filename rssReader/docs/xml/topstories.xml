@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; New York</title>
+    <link>https://www.nytimes.com/section/nyregion</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2022 The New York Times Company</copyright>
+    <lastBuildDate>Tue, 12 Apr 2022 11:12:15 +0000</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2022 10:15:07 +0000</pubDate>
+    <image>
+      <title>NYT &gt; New York</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/nyregion</link>
+    </image>
+    <item>
+      <title>Legal Marijuana Sales Expected to Start Within Weeks in New Jersey</title>
+      <link>https://www.nytimes.com/2022/04/11/nyregion/marijuana-sales-nj.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/nyregion/marijuana-sales-nj.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/nyregion/marijuana-sales-nj.html" rel="standout"></atom:link>
+      <description>A state commission has granted seven medical-marijuana companies permission to start selling cannabis to all adults at 13 dispensaries.</description>
+      <dc:creator>Tracey Tully</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 21:32:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Marijuana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/24/nyregion/24nj-marijuana/24nj-marijuana-moth.jpg" width="151"></media:content>
+      <media:credit>Julio Cortez/Associated Press</media:credit>
+      <media:description>New Jersey granted permission on Monday for some medical-marijuana dispensaries to begin selling cannabis to recreational users.</media:description>
+    </item>
+    <item>
+      <title>‘S.N.L.’ Star Colin Jost Takes a Spin on Ferryboat He Bought With Pete Davidson</title>
+      <link>https://www.nytimes.com/2022/04/11/nyregion/pete-davidson-colin-jost-staten-island-ferry.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/nyregion/pete-davidson-colin-jost-staten-island-ferry.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/nyregion/pete-davidson-colin-jost-staten-island-ferry.html" rel="standout"></atom:link>
+      <description>After buying the retired Staten Island ferry at auction in January, the new owners rode it into New York Harbor en route to a temporary home.</description>
+      <dc:creator>Patrick McGeehan</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 01:25:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ferries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Department of Citywide Administrative Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Staten Island Ferry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davidson, Pete (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jost, Colin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Staten Island (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/nyregion/11nyferry/11nyferry-moth.jpg" width="151"></media:content>
+      <media:credit>Sara Messinger for The New York Times</media:credit>
+      <media:description>Colin Jost, a star of “Saturday Night Live,’’ aboard a ferry on Monday that a group he was part of won at a public auction. </media:description>
+    </item>
+    <item>
+      <title>Miya Ponsetto Pleads Guilty to Tackling Black Teen at SoHo Hotel</title>
+      <link>https://www.nytimes.com/2022/04/11/nyregion/miya-ponsetto-soho-hotel-guilty-plea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/nyregion/miya-ponsetto-soho-hotel-guilty-plea.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/nyregion/miya-ponsetto-soho-hotel-guilty-plea.html" rel="standout"></atom:link>
+      <description>Miya Ponsetto admitted to committing a hate crime in the 2020 episode, parts of which were captured in a widely seen video.</description>
+      <dc:creator>Ed Shanahan</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 04:49:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racial Profiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arlo (Manhattan, NY, Hotel)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harrold, Keyon (Musician)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harrold, Keyon Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ponsetto, Miya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">SoHo (Manhattan, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/nyregion/11soho/11soho-moth.jpg" width="151"></media:content>
+      <media:credit>Ventura County Sheriff&#39;s Office, via Associated Press</media:credit>
+      <media:description>If Miya Ponsetto adheres to the terms of her probation in a separate California case and stays out of other trouble for two years, she can enter a new plea to a lesser charge. </media:description>
+    </item>
+    <item>
+      <title>As Remote Work Becomes Permanent, Can Manhattan Adapt?</title>
+      <link>https://www.nytimes.com/2022/04/11/nyregion/remote-work-hybrid-manhattan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/nyregion/remote-work-hybrid-manhattan.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/nyregion/remote-work-hybrid-manhattan.html" rel="standout"></atom:link>
+      <description>With more companies adopting hybrid work, New York City’s economy, which relies on commuters and full office buildings, faces an uncertain future.</description>
+      <dc:creator>Dana Rubinstein and Nicole Hong</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 00:46:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Return to Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JPMorgan Chase &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Penguin Random House</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PricewaterhouseCoopers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Skillshare Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zillow.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Verizon Communications Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dimon, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/nyregion/00ny-rto/00ny-rto-moth.jpg" width="151"></media:content>
+      <media:credit>Tracy Nguyen for The New York Times</media:credit>
+      <media:description>Nina Anziska, 33, permanently relocated to Los Angeles in October 2020 after her boss at Skillshare, an online education company, said she was no longer required to return to her Manhattan office.</media:description>
+    </item>
+    <item>
+      <title>Mayor Adams’s First 100 Days: A Focus on Crime, Covid and Crises</title>
+      <link>https://www.nytimes.com/2022/04/10/nyregion/eric-adams-100-days.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/10/nyregion/eric-adams-100-days.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/10/nyregion/eric-adams-100-days.html" rel="standout"></atom:link>
+      <description>Eric Adams has served as a cheerleader for New York City’s revival while taking an aggressive stance against homeless encampments and signs of lawlessness.</description>
+      <dc:creator>Emma G. Fitzsimmons, Jeffery C. Mays and Dana Rubinstein</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 15:47:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/08/nyregion/00mayor-100days-promo/00mayor-100days-promo-moth.jpg" width="151"></media:content>
+      <media:credit>An Rong Xu for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>New York’s Bail Laws Are Changing Again. Here’s How.</title>
+      <link>https://www.nytimes.com/2022/04/11/nyregion/new-york-bail-laws.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/nyregion/new-york-bail-laws.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/nyregion/new-york-bail-laws.html" rel="standout"></atom:link>
+      <description>Governor Kathy Hochul pushed for a rewrite of the 2019 laws governing the criminal justice system.</description>
+      <dc:creator>Chelsia Rose Marcius, Troy Closson and Grace Ashford</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 16:29:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/nyregion/11ny-bail/11ny-bail-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Cindy Schultz for The New York Times</media:credit>
+      <media:description>Governor Kathy Hochul at the Capitol last week.</media:description>
+    </item>
+    <item>
+      <title>Arbitrator Clears Buffalo Police Officers Who Shoved Protester</title>
+      <link>https://www.nytimes.com/2022/04/11/nyregion/martin-gugino-buffalo-police-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/nyregion/martin-gugino-buffalo-police-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/nyregion/martin-gugino-buffalo-police-ruling.html" rel="standout"></atom:link>
+      <description>A video from June 2020 showed Martin Gugino, 75 at the time, motionless and bleeding after being pushed to the ground. The footage fueled outrage during a summer of unrest over police violence.</description>
+      <dc:creator>Eduardo Medina</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 18:04:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Torgalski, Aaron (Buffalo, NY, Police Officer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCabe, Robert (Buffalo, NY, Police Officer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gugino, Martin (1944- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Buffalo (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">George Floyd Protests (2020)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Lives Matter Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arbitration, Conciliation and Mediation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Buffalo, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/lens/11xp-buffalo-01/11xp-buffalo-01-moth.jpg" width="151"></media:content>
+      <media:credit>REUTERS/Jamie Quinn</media:credit>
+      <media:description>Martin Gugino lay on the ground after being pushed by Buffalo police officers in a confrontation outside Buffalo City Hall in June 2020.</media:description>
+    </item>
+    <item>
+      <title>‘My Husband and I Got Married at the City Clerk’s Office in February’</title>
+      <link>https://www.nytimes.com/2022/04/10/nyregion/metropolitan-diary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/10/nyregion/metropolitan-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/10/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
+      <description>A celebratory brunch, testing a theory on the M14 and more reader tales of New York City in this week’s Metropolitan Diary.</description>
+      <pubDate>Sun, 10 Apr 2022 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>New Jersey Republican Stronghold Has State’s Worst Virus Death Rate</title>
+      <link>https://www.nytimes.com/2022/04/10/nyregion/ocean-county-new-jersey-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/10/nyregion/ocean-county-new-jersey-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/10/nyregion/ocean-county-new-jersey-covid.html" rel="standout"></atom:link>
+      <description>Ocean County, a predominantly white and middle-class community in central New Jersey, also has low vaccination rates.</description>
+      <dc:creator>Tracey Tully and Shlomo Schorr</dc:creator>
+      <pubDate>Sun, 10 Apr 2022 15:04:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ocean County (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lakewood (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Orthodox Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/03/17/nyregion/00nj-vaccination1/00nj-vaccination1-moth.jpg" width="151"></media:content>
+      <media:credit>Bryan Anselm for The New York Times</media:credit>
+      <media:description>Rafael Berroteran, left, registered for a coronavirus vaccine with his 8-year-old daughter, Annia, in Lakewood, N.J.</media:description>
+    </item>
+    <item>
+      <title>The Ups and Downs of Remote Work in New York</title>
+      <link>https://www.nytimes.com/2022/04/12/nyregion/remote-work-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/12/nyregion/remote-work-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/12/nyregion/remote-work-new-york.html" rel="standout"></atom:link>
+      <description>People like working in their pajamas. But when employees don’t return to office, the city economy feels the pain.</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 09:15:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Return to Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantine (Life and Culture)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Light Theater Project</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brooks, Mel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/12/multimedia/12nytoday-rto/12nytoday-rto-moth.jpg" width="151"></media:content>
+      <media:credit>Tracy Nguyen for The New York Times</media:credit>
+      <media:description>Nina Anziska moved to Los Angeles in October 2020 after her boss at an online education company said she was no longer required to return to her Manhattan office.</media:description>
+    </item>
+    <item>
+      <title>A Rise in Murders Upends a Sense of Progress in Brooklyn’s East Flatbush</title>
+      <link>https://www.nytimes.com/2022/04/12/nyregion/east-flatbush-brooklyn-crime.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/12/nyregion/east-flatbush-brooklyn-crime.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/12/nyregion/east-flatbush-brooklyn-crime.html" rel="standout"></atom:link>
+      <description>The killing of a 12-year-old boy in the neighborhood captured how a spike in shootings during the pandemic is complicating recovery in less affluent neighborhoods.</description>
+      <dc:creator>Ashley Southall, Troy Closson and Sean Piccoli</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 09:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Flatbush (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lewin, Kade (d 2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Jumaane D</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/30/nyregion/00eastflatbush/00eastflatbush-moth.jpg" width="151"></media:content>
+      <media:credit>Victor J. Blue for The New York Times</media:credit>
+      <media:description>A memorial for Kade Lewin, who was killed in an apparent case of mistaken identity.</media:description>
+    </item>
+    <item>
+      <title>Unraveling a High-Rise Horror Story</title>
+      <link>https://www.nytimes.com/2022/04/12/insider/unraveling-a-high-rise-horror-story.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/12/insider/unraveling-a-high-rise-horror-story.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/12/insider/unraveling-a-high-rise-horror-story.html" rel="standout"></atom:link>
+      <description>A tip about elevator breakdowns at a high-rise residential building in Lower Manhattan proved to be more than just griping.</description>
+      <dc:creator>Sarah Bahr</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 09:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elevators and Escalators</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Consolidated Edison Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Financial District (Manhattan, NY)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/12/us/12a2_insider-highrise-elevator/00ny-elevator-3-moth.jpg" width="151"></media:content>
+      <media:credit>Amir Hamja for The New York Times</media:credit>
+      <media:description>After working a recent 12-hour shift as a nurse, Erin Campbell had to trek to the 48th floor of 20 Exchange Place to reach her apartment because of elevator outages.</media:description>
+    </item>
+    <item>
+      <title>Why City Pigeons Are Worth Watching</title>
+      <link>https://www.nytimes.com/2022/04/12/science/pigeons-facts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/12/science/pigeons-facts.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/12/science/pigeons-facts.html" rel="standout"></atom:link>
+      <description>The humble Columba livia is much more than a rat with wings.</description>
+      <dc:creator>Rosemary Mosco</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 07:00:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pigeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Breeding of Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+    </item>
+    <item>
+      <title>New York Lets ‘Fearless Girl’ Hold Her Ground, for Now</title>
+      <link>https://www.nytimes.com/2022/04/11/arts/design/fearless-girl-statue-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/arts/design/fearless-girl-statue-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/arts/design/fearless-girl-statue-new-york.html" rel="standout"></atom:link>
+      <description>Officials voted to extend the sculpture’s permit but are requiring stakeholders to return in six months with plans for a permanent location.</description>
+      <dc:creator>Zachary Small</dc:creator>
+      <pubDate>Tue, 12 Apr 2022 03:24:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Public Design Commission (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Visbal, Kristen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Street Global Advisors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonfungible Tokens (NFTs)</category>
+      <category domain="">Fearless Girl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Landmarks Preservation Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (NYC)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/arts/11fearless-girl-hearing-3/merlin_205060920_f08d8644-eaba-4fbe-ab1e-fdc347fac33e-moth.jpg" width="151"></media:content>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <media:description>After “Fearless Girl” moved to the steps of the New York Stock Exchange, thousands continued to gather each year for a selfie with the girl holding her ground.</media:description>
+    </item>
+    <item>
+      <title>New Drug Slashed Deaths Among Patients With Severe Covid, Maker Claims</title>
+      <link>https://www.nytimes.com/2022/04/11/health/covid-sabizabulin-veru.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/health/covid-sabizabulin-veru.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/health/covid-sabizabulin-veru.html" rel="standout"></atom:link>
+      <description>A late-stage trial was halted after strong early results, according to the company, but the data have not yet been published or peer-reviewed.</description>
+      <dc:creator>Roni Caryn Rabin</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 21:52:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Veru Inc.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/science/11virus-drug1/11virus-drug1-moth.jpg" width="151"></media:content>
+      <media:credit>Shannon Stapleton/Reuters</media:credit>
+      <media:description>Treating a Covid patient at St. Mary Medical Center in Apple Valley, Calif. There are few treatments specifically for severely ill patients. </media:description>
+    </item>
+    <item>
+      <title>The Shakespearean Tall Tale That Shaped How We See Starlings</title>
+      <link>https://www.nytimes.com/2022/04/11/science/starlings-birds-shakespeare.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/science/starlings-birds-shakespeare.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/science/starlings-birds-shakespeare.html" rel="standout"></atom:link>
+      <description>Researchers debunked a long-repeated yarn that the common birds owe their North American beginnings to a 19th-century lover of the Bard. Maybe this ubiquitous bird’s story is ready for a reboot.</description>
+      <dc:creator>Jason Bittel</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 20:36:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakespeare, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Teale, Edwin Way</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Molecular Ecology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schieffelin, Eugene</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Humanities (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-animals</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/12/science/00sci-starlings1/00sci-starlings1-moth.jpg" width="151"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>A pair of European starlings nesting in the cavity of a tree near Heckscher Playground in Central Park.</media:description>
+    </item>
+    <item>
+      <title>On Day 100, Mayor Adams Has Covid-19</title>
+      <link>https://www.nytimes.com/2022/04/11/nyregion/on-day-100-mayor-adams-has-covid-19.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/11/nyregion/on-day-100-mayor-adams-has-covid-19.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/11/nyregion/on-day-100-mayor-adams-has-covid-19.html" rel="standout"></atom:link>
+      <description>Eric Adams tested positive after a series of public events promoting his first 100 days as mayor. He reminded eligible New Yorkers to take antivirals.</description>
+      <dc:creator>Anne Barnard</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 08:28:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Molnupiravir (Drug)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Long Covid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/multimedia/11nytoday-adams2/11nytoday-adams2-moth.jpg" width="151"></media:content>
+      <media:credit>Stephanie Keith for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Eric Adams, N.Y.C.’s Mayor, Tests Positive for Coronavirus</title>
+      <link>https://www.nytimes.com/2022/04/10/nyregion/eric-adams-covid-positive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/10/nyregion/eric-adams-covid-positive.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/10/nyregion/eric-adams-covid-positive.html" rel="standout"></atom:link>
+      <description>Mr. Adams has been focused on reopening the city after cases rose during the Omicron surge over the winter.</description>
+      <dc:creator>Emma G. Fitzsimmons</dc:creator>
+      <pubDate>Mon, 11 Apr 2022 06:50:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/05/10/world/10virus-briefing-nyc-adams_2/10virus-briefing-nyc-adams_2-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Stephanie Keith for The New York Times</media:credit>
+      <media:description>Mayor Eric Adams of New York last week. He woke up with a raspy voice on Sunday and tested negative on a rapid test before testing positive on a P.C.R. test, a spokesman said.</media:description>
+    </item>
+    <item>
+      <title>Will the Virus Cooperate With Broadway’s Spring Rebound?</title>
+      <link>https://www.nytimes.com/2022/04/10/theater/broadway-reopening-omicron-covid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/10/theater/broadway-reopening-omicron-covid.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/10/theater/broadway-reopening-omicron-covid.html" rel="standout"></atom:link>
+      <description>It will be the busiest April for Broadway openings in more than a decade. But some of its biggest stars have been sidelined by positive tests.</description>
+      <dc:creator>Michael Paulson</dc:creator>
+      <pubDate>Sun, 10 Apr 2022 19:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Broderick, Matthew</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parker, Sarah Jessica</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Plaza Suite (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Strange Loop (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Paradise Square (Play)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2022/04/11/arts/00broadway1/00broadway1-moth-v4.jpg" width="151"></media:content>
+      <media:credit>OK McCausland for The New York Times</media:credit>
+      <media:description>Matthew Broderick and Sarah Jessica Parker celebrated the long-delayed opening of “Plaza Suite,” the comedy in which they are co-starring. A little more than a week later, they both tested positive for the coronavirus.</media:description>
+    </item>
+    <item>
+      <title>Homes That Sold for Around $1 Million</title>
+      <link>https://www.nytimes.com/2022/04/10/realestate/homes-that-sold-for-around-1-million.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2022/04/10/realestate/homes-that-sold-for-around-1-million.html</guid>
+      <atom:link href="https://www.nytimes.com/2022/04/10/realestate/homes-that-sold-for-around-1-million.html" rel="standout"></atom:link>
+      <description>Recent residential sales in New York City and the region.</description>
+      <dc:creator>C. J. Hughes</dc:creator>
+      <pubDate>Sun, 10 Apr 2022 09:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boerum Hill (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenwich (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Larchmont (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Roslyn (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Glen Rock (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Village (Manhattan, NY)</category>
+    </item>
+  </channel>
+</rss>

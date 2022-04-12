@@ -1,0 +1,6 @@
+*.env, *.exe
+env
+*.pyc
+*.pyc
+bots.md
+
