@@ -74,13 +74,16 @@ class Q90():
 
                     newsItems['media'] = child.attrib['url']
 
-                elif child.tag == '{http://www.w3.org/2005/Atom}link' or child.tag == '{http://purl.org/dc/elements/1.1/}creator' or child.tag == '{http://search.yahoo.com/mrss/}credit':
+                    # Creating a list to loop through 
+
+                elif child.tag == '{http://www.w3.org/2005/Atom}link' or child.tag == '{http://purl.org/dc/elements/1.1/}creator' or child.tag == '{http://search.yahoo.com/mrss/}credit' or child.tag == '{http://search.yahoo.com/mrss/}description':
                         pass
 
-                elif child.tag == '{http://search.yahoo.com/mrss/}description' or child.tag == 'guid':
+                elif child.tag == 'guid':
                     pass
                     
                 else:
+                    unavailable.append(child.tag)
 
                     newsItems[child.tag] = child.text.encode('utf-8')
 

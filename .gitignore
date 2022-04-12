@@ -1,8 +1,9 @@
-*.env,
+*.env
 *.pyc
-
+*exe
 bots.md
 
 env
+test
 webDriver
 
