@@ -12,9 +12,7 @@ def runBot():
 
     rss.praseXML()
 
-    
-
-
+    rss.openImage()
     return
 
 if __name__ == '__main__':
